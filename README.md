@@ -97,7 +97,7 @@ MIT License. Feel free to fork and contribute!
 
 ## 👨‍💻 Author
 
-**Your Name**
+**DEVESH SINGH MEHTA**
 [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ```
